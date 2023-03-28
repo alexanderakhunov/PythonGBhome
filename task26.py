@@ -9,3 +9,5 @@ def value_numb(a,b):
 a = int(input("Введите число: "))
 b = int(input("Введите степень: "))
 print(value_numb(a,b))
+
+#upd

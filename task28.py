@@ -11,3 +11,5 @@ def sum_values(a,b):
 a = int(input("Введите 1-е число: "))
 b = int(input("Введите 2-е число: "))
 print(sum_values(a,b))
+
+#upd
